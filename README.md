@@ -1,1 +1,3 @@
 # inf4491
+
+INFO4491_Machine_Learning__Algorithms_and_Theory
